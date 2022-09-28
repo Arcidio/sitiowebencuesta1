@@ -125,7 +125,7 @@
                 }
 
                 if($result2->num_rows>0){
-                  echo "<h3> Total Encuestados: ";
+                  echo "<h3 style='color:darkred'> Total Encuestados: ";
                    while ($row=$result2->fetch_assoc()){
                       echo $row["TOTAL"];
                   }
