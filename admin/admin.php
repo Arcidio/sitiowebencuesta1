@@ -13,6 +13,11 @@
 
     <ol>
         <li> Reiniciar a 0 los encuestados  </li>
+        <li> opcion  </li>
+        <li> opcion  </li>
+        <li> opcion  </li>
+
+
     </ol>
 
 
