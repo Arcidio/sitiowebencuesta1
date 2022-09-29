@@ -112,7 +112,7 @@
                 if($result->num_rows>0){
                     echo "<h3> Tabla de Resultado </h3>";
                     echo "<table border=1>";
-                    echo "<tr> <td> id </td>  <td> Producto </td>    <td> Cantidad Encuestados </td> </tr>  ";
+                    echo "<tr> <td> id </td>  <td> Opcion </td>    <td> Cantidad Encuestados </td> </tr>  ";
                     while ($row=$result->fetch_assoc()){
                         echo "<tr> <td>";
                         echo $row["id"]." </td> ";
